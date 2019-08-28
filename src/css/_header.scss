@@ -1,0 +1,141 @@
+// .container{
+//     min-height: 80vh;
+//     // width: 100%;
+//     position: relative;
+//     .main-header{
+//         position: absolute;
+//         height: 98vh;
+//         background-image:url("../images/1.jpg");
+//         background-attachment: fixed;
+//         background-repeat: no-repeat;
+//          background-size: cover;
+//         color: $somcolor;
+//         text-align: center;
+
+//         .main-heading{
+//             letter-spacing: 3.5px;
+//             font-size: 5.0rem;
+//             color: white;
+//             font-family: 'Ramabhadra', sans-serif;
+
+//             margin-top: 10%;
+//     }
+//     .main-para{
+//         color: white;
+//         font-size: 1.5rem;
+//         text-align: center;
+//         margin-left: 10%;
+//         margin-right: 10%;
+//         // margin-top: 15%;
+// }
+// .button-sign-up{
+//     // width: 9%;
+//     // height: 8%;
+//     padding: 10px;
+//     border-radius: 100px;
+//     margin-top: 40px;
+//     color: grey;
+//     font-size: 1.5rem;
+//     background-color: white;
+//     transition: all 0.8s;
+//     &:hover{
+//         transform: scale(1.2);
+//         transition: all 0.8s;
+//         background-color: black;
+//         color: white;
+//     }
+
+// }
+
+// }
+
+// .icon-div{
+//     height: auto;
+//     width: 10px;
+//     z-index: 5;
+//     margin-top: -80px;
+
+//     ul{
+//         list-style: none;
+//         .icon{
+//             color: white;
+//             font-size: 20px;
+//             z-index: 4;
+//             padding: 15px;
+//             padding-left: 25px;
+//             transition: all 0.8s;
+
+//             .hr1{
+//                 border: 0;
+//                 border-bottom: 1px solid white;
+//                 border-top: 1px solid white;
+//                 transition: all 0.8s;
+//                 width: 50px;
+//                 margin-top: -35px;
+//                 margin-left: -15px;
+//                 height: 40px;
+                
+//                 // &:hover{
+//                 //     border: 1px solid white;
+//                 //     width: 100px;
+//                 // }
+//             }
+//             &:hover > .hr1{
+               
+//                 border-top: 1px solid white;
+//                 border-bottom: 1px solid white;
+//                 width: 100px;
+//                 transition: all 0.8s;
+//             }
+//         }
+//     }
+// }
+// }
+
+
+
+.hell{
+    background-image: url("../images/background guy 2.jpg") !important;
+    background-attachment: fixed;
+    background-size: cover;
+    .section1{
+        height: 80vh;
+        .col-12{
+            flex:0 0 auto;
+            -ms-flex: 0 0 auto;
+        }
+    }
+}
+.heading1{
+    letter-spacing: 3.5px;
+                font-size: 3rem;
+                color: white;
+                font-family: 'Ramabhadra', sans-serif;
+}
+.para1{
+    color: white;
+        font-size: 1.5rem;
+
+}
+.button-sign-up{
+    background-color: white !important;
+    font-family: 'Ramabhadra', sans-serif;
+    &:hover{
+        background-color: black !important;
+        color: white;
+        transition: all 0.8s;
+    }
+}
+ul{
+            list-style: none;
+            .icon{
+                color: white;
+                font-size: 2.2rem;
+                z-index: 4;
+                transition: all 0.8s;
+            }
+        }
+    
+.icons{
+    margin-top: -100px !important;
+}

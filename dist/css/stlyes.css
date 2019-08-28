@@ -1,0 +1,92 @@
+.hell {
+  background-image: url("../images/background guy 2.jpg") !important;
+  background-attachment: fixed;
+  background-size: cover; }
+  .hell .section1 {
+    height: 80vh; }
+    .hell .section1 .col-12 {
+      flex: 0 0 auto;
+      -ms-flex: 0 0 auto; }
+
+.heading1 {
+  letter-spacing: 3.5px;
+  font-size: 3rem;
+  color: white;
+  font-family: 'Ramabhadra', sans-serif; }
+
+.para1 {
+  color: white;
+  font-size: 1.5rem; }
+
+.button-sign-up {
+  background-color: white !important;
+  font-family: 'Ramabhadra', sans-serif; }
+  .button-sign-up:hover {
+    background-color: black !important;
+    color: white;
+    transition: all 0.8s; }
+
+ul {
+  list-style: none; }
+  ul .icon {
+    color: white;
+    font-size: 2.2rem;
+    z-index: 4;
+    transition: all 0.8s; }
+
+.icons {
+  margin-top: -100px !important; }
+
+.section2 {
+  background-color: #e7eaed; }
+
+.section2-heading {
+  letter-spacing: 3.5px;
+  font-size: 2rem;
+  color: black;
+  font-family: 'Ramabhadra', sans-serif; }
+
+.section2-para {
+  color: grey;
+  font-size: 0.9rem; }
+
+#bgvid {
+  width: 100%;
+  height: 500px;
+  position: absolute;
+  top: 0;
+  object-fit: fill; }
+
+.video-row {
+  position: relative; }
+
+.video-heading {
+  letter-spacing: 5px;
+  font-size: 3.2rem;
+  color: white;
+  font-family: 'Ramabhadra', sans-serif;
+  margin-top: 20%; }
+
+.video-para {
+  color: white;
+  font-size: 1rem; }
+
+.inst-cont {
+  background-color: #e7eaed; }
+
+.img-inst {
+  height: 130px;
+  width: 130px; }
+
+.girl-cont {
+  margin-top: 9%; }
+
+.girl-cont {
+  background-color: #e7eaed; }
+
+.section2-cont {
+  background-color: #e7eaed; }
+
+* {
+  margin: 0;
+  padding: 0; }
